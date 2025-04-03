@@ -1,5 +1,5 @@
 # MudletGauges
-https://github.com/LuminaUL/MudletGauges/blob/main/image.png?raw=true
+![Screenshot of the gauges in mudlet](https://github.com/LuminaUL/MudletGauges/blob/main/image.png?raw=true)
 
 ## Installation
 - Download both XML files (both are REQUIRED)
