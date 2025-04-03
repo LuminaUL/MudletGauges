@@ -1,4 +1,6 @@
 # MudletGauges
+https://github.com/LuminaUL/MudletGauges/blob/main/image.png?raw=true
+
 ## Installation
 - Download both XML files (both are REQUIRED)
 - Open UL in Mudlet
